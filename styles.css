@@ -1,0 +1,33 @@
+body {
+    background-color:#B9F3E4;
+}
+p {
+    color:#790252;
+    font-size: 20px;
+}
+ul {
+    color:#790252;
+    font-size: 20px;
+}
+table {
+    font-size: 20px;
+}
+td {
+    color:#790252;
+}
+hr {
+    border-color:white;
+    border-style:none;
+    border-top-style:dotted;
+    border-width: 4px;
+    width: 20%;
+}
+img {
+    height: 150px;
+}
+h1 {
+    color: #3A98B9;
+}
+h2 {
+    color: #3A98B9;
+}
