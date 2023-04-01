@@ -4,16 +4,19 @@ body {
 p {
     color:#790252;
     font-size: 20px;
+    font-family: 'Lato', sans-serif;
 }
 ul {
     color:#790252;
     font-size: 20px;
+    font-family: 'Lato', sans-serif;
 }
 table {
     font-size: 20px;
 }
 td {
     color:#790252;
+    font-family: 'Lato', sans-serif;
 }
 hr {
     border-color:white;
